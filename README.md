@@ -1,0 +1,2 @@
+# BoredAPI
+SRE application
